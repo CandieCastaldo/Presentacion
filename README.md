@@ -1,8 +1,13 @@
 # Candela Castaldo
 ## Estudiante de informática en la UNAHUR
 
-**para negrita**
+**Un poco sobre mi:**
 
-![referencias](nombre de archivo) lo busca en el repositorio
+![foto](nombre de archivo)
 
-https://markdown.es/sintaxis-markdown/
+* Tengo 24 años
+* Soy de Ituzaingó
+* Soy fotógrafa y retocadora profesional
+* También soy Técnica Superior en Gastronomía
+* **AMO** los animales
+
